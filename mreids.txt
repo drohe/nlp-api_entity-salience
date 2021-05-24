@@ -1,0 +1,3 @@
+{"/m/01yvs": "Coca Cola soft drink",
+"/m/03phgz": "Coca Cola beverage company",
+"/m/0qjf5": "Diet Coke soft drink"}
